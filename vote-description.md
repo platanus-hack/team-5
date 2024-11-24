@@ -1,4 +1,4 @@
-<img src="./src/assets/vita-logo-no-bg.png" alt="Vita Logo" width="200" />
+<img src="./webapp/src/assets/vita-logo-no-bg.png" alt="Vita Logo" width="200" />
 
 # Tu Salud en tus Manos
 
